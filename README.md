@@ -2,9 +2,7 @@
     python3.7
 ## 依赖环境
 ```python
-pip install Django==2.1.5
-pip install PyMySQL==0.9.3
-pip install pillow
+pip install -r requirements.txt
 ```
 
 安装 DjangoUeditor3（百度的富文本编辑器）
